@@ -20,7 +20,7 @@ From the Face ID unlocking your phone to the perfectly placed Snapchat filters, 
 
 Are you already thinking about the long lines of code and the complicated math involved in building something like this? Or maybe you’re someone with minimal coding experience, daring to step into the world of CV but worried you’ll drown in complexity? Worry not, dear friends, Google’s MediaPipe has come to the rescue!
 
-<img src="//content/images/blogs/samiksha_blog_images/facial_recognition.jpg" alt="Face Mesh example" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
+<img src="/images/blogs/samiksha_blog_images/facial_recognition.jpg" alt="Face Mesh example" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
 
 MediaPipe is an open-source framework that brings machine learning directly to your device. No PhD required, no supercomputers needed, no cloud servers sending your face data to mysterious locations.
 It’s very lightweight, and it comes with pre-trained models that don’t require you to collect thousands of face images or train for hours. Import the library, write a few lines of code, and you’re tracking faces.
@@ -151,12 +151,12 @@ What it is: Classic machine learning algorithms that learn decision rules.
 How it Works:
 1. Random Forest:
 Learns human-readable rules through repeated yes/no questions (builds decision trees)
-<img src="//content/images/blogs/samiksha_blog_images/random forest.png" alt="Random Forest" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
+<img src="/images/blogs/samiksha_blog_images/random forest.png" alt="Random Forest" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
 Asks sequential questions → votes
 2. SVM:
 Learns mathematical boundaries that separate emotion clusters in space.
 Plots position → finds nearest boundary
-<img src="//content/images/blogs/samiksha_blog_images/svm.png" alt="svm" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
+<img src="/images/blogs/samiksha_blog_images/svm.png" alt="svm" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
 Prediction for X: 😊 HAPPINESS
 
 ### Option #2: Deep Learning (CNN, GNN, MLP):
@@ -171,7 +171,7 @@ Implementation: Use individually or combine based on your needs (e.g., GNN for f
 ## Final Pipeline:
 To sum it all up:
 
-<img src="//content/images/blogs/samiksha_blog_images/final_pipeline.png" alt="Pipeline diagram" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
+<img src="/images/blogs/samiksha_blog_images/final_pipeline.png" alt="Pipeline diagram" style="width:100%; max-width:500px; display:block; margin:1rem auto;">
 
 ---
 
@@ -393,7 +393,7 @@ if __name__ == "__main__":
 <h3> Written By </h3>
 
 <div style="display:flex;align-items:center;gap:1rem;margin-top:1.5rem;">
-  <img src="//content/images/authors/samiksha.jpg" alt="Samiksha Patil" style="width:80px;height:80px;border-radius:50%;object-fit:cover;box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="/images/authors/samiksha.jpg" alt="Samiksha Patil" style="width:80px;height:80px;border-radius:50%;object-fit:cover;box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
   <div>
     <p style="margin:0;font-size:1.1rem;font-weight:bold;">Samiksha Patil</p>
     <p style="margin:0;color:#555;">Computer Science Student • AI Enthusiast • Writer</p>
