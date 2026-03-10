@@ -1,6 +1,6 @@
 ---
 title: "Resume Building and Career Guidance Session"
-date: 2025-08-29
+date: 2026-02-17
 tags: [Research, Career, Resume, ACM]
 ---
 
