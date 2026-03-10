@@ -7,7 +7,7 @@ tags: [Research, Career, Resume, ACM]
 
 ## 🎥 ACM Research Seminar 2.0
 
-[![Resume Building and Career Guidance Session](https://drive.google.com/file/d/19AY7Pwm3G5oesMTvqtstZlQrSGbwI4wr/view)](https://www.youtube.com/watch?v=B_5aA5Cumwg)
+[![Resume Building and Career Guidance Session](https://drive.google.com/uc?export=view&id=19AY7Pwm3G5oesMTvqtstZlQrSGbwI4wr)](https://www.youtube.com/watch?v=B_5aA5Cumwg)
 
 ---
 
